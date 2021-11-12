@@ -1,0 +1,188 @@
+*{
+    padding: 0;
+    margin: 0%;
+}
+
+.header{
+    height: 100vh;
+    width: 100%;
+    background: radial-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(banner1.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+    text-align: center;
+    color: white;
+}
+.header img{
+    width: 175px;
+float: left;
+}
+.login-btn{
+    width: 100px;
+    padding: 8px 0;
+    outline: none;
+    border: 2px solid white;
+    border-radius: 50px;
+    background: transparent;
+color: white;
+float: right;
+}
+
+.header h1{
+padding-top: 260px;
+padding-bottom: 5px;
+font-size: 55px;
+}
+.header p{
+ margin: 10px 0;
+}
+.input-group{
+    width: 90%;
+    max-width: 500px;
+    border-radius: 30px;
+    background: white;
+    padding: 2px;
+    margin: auto;
+}
+.form-control{
+    border: 0;
+    border-radius: 50px;
+    margin: 2px;
+    box-shadow: none;
+}
+.input-group-text{
+    border: 0;
+    border-radius: 50px;
+    background-image: linear-gradient(#00ff78,#1f3d90);
+width: 100px;
+    color: white;
+    padding: 0 25px;
+    box-shadow: none;
+}
+.features{
+    padding: 100px 0;
+ 
+}
+.features h1{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.feature-box{
+   
+    box-shadow:-5px 5px rgb(232, 228, 228 ,1);
+}
+.feature-box img{
+    width:100%;
+   
+}
+.fetures-par{
+    padding: 10px;
+
+}
+.fetures-par p{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.features-days{
+    margin-left: 5px;
+}
+.features-days i{
+    padding-left: 5px;
+}
+.features-days p{
+    display: inline-block;
+}
+.services{
+    text-align: center;
+    margin: 10px 0;
+    padding: 50px 0;
+   background-image: url(banner2.jpg);
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+.card-gap{
+    display: flex;
+    justify-content: center;
+    margin: 5px 0;
+}
+.card{
+    border-radius: 25px;
+}
+.card img{
+    border-radius: 25px;
+}
+.card-link{
+    float: right;
+    color: gray;
+}
+.contact{
+    background-color: #d4e4f2;
+}
+.contact h1{
+    text-align: center;
+}
+.contact{
+    padding: 50px 0;
+}
+.testimonials h1{
+    text-align: center;
+}
+.img img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.testimonials{
+    padding: 50px 0;
+}
+.t-row{
+    padding: 50px 0;
+    margin: 0 20px;
+}
+.img{
+    padding: 10px 0;
+}
+.fotter{
+  background-color: #01525e; 
+  color: white
+}
+.t-col{
+    border-left: 5px solid #005360;
+    margin: 25px 0;
+   
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
